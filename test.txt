@@ -1,6 +1,12 @@
 master
+<<<<<<< HEAD
 dev2
 dev
 dev
+=======
+devdevddd
+dev2
+aaaa
+>>>>>>> dev2
 aaaa
 aaaa
